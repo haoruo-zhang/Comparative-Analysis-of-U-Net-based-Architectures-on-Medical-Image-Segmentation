@@ -27,16 +27,10 @@ The purpose of this project is to implement, evaluate, and compare several U-Net
 git clone https://github.com/haoruo-zhang/Comparative-Analysis-of-U-Net-based-Architectures-on-Medical-Image-Segmentation.git
 cd Comparative-Analysis-of-U-Net-based-Architectures-on-Medical-Image-Segmentation
 ```
-
-### 2. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Prepare the Dataset
+### 2. Prepare the Dataset
 Modify or use the existing data loaders under `utils/` to match your dataset format.
 
-### 4. Run the Experiment Notebook
+### 3. Run the Experiment Notebook
 Open and run:
 ```
 capstone.ipynb
